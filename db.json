@@ -1,15 +1,8 @@
 {
   "posts": [
-      { "id": 1, "title": "Post 1", "description": "this is description 1" },
-      { "id": 2, "title": "Post 2", "description": "this is description 1" },
-      { "id": 3, "title": "Post 3", "description": "this is description 1" },
-      { "id": 4, "title": "Post 4", "description": "this is description 1" }
+      { "id": 1, "fname": "Avi " },
+      { "id": 2, "lname": "asdf" },
+      { "id": 3, "email": "ghjk" },
+      { "id": 4, "password": "cvbn" }
     ],
-    "reviews": [
-      {"id": 1, "body": "review 1", "pstId": 1 },
-      {"id": 2, "body": "review 2", "pstId": 1 }
-      ],
-     "profile": {
-        "name": "Profile 1"
-       }
  }
