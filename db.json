@@ -1,8 +1,8 @@
 {
   "posts": [
-      { "id": 1, "fname": "Avi " },
-      { "id": 2, "lname": "asdf" },
-      { "id": 3, "email": "ghjk" },
-      { "id": 4, "password": "cvbn" }
+      { "id": 1, "fname": "Avi ", "lname": "asdf", "email": "avi@gmail.com", "password": "qwertyuiop" },
+      { "id": 2,  "fname": "asd ", "lname": "asdf", "email": "fgh@gmail.com", "password": "vbhnjmk,l" },
+      { "id": 3,  "fname": "tghjk ", "lname": "asdf", "email": "dfgh@gmail.com", "password": "xcvbnmfgbhn" },
+      { "id": 4,  "fname": "qwert ", "lname": "asdf", "email": "xcvb@gmail.com", "password": "xdcfvbnm" }
     ]
  }
