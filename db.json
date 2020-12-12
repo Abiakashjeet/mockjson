@@ -4,11 +4,11 @@
       { "id": 1, "title": "Post 1", "description": "this is description 1" },
       { "id": 1, "title": "Post 1", "description": "this is description 1" },
       { "id": 1, "title": "Post 1", "description": "this is description 1" }
-    },
+    ],
     "reviews": [
       {"id": 1, "body": "review 1": "pstId": 1 },
       {"id": 1, "body": "review 1": "pstId": 1 }
-      },
+      ],
      "profile": {
         "name": "Profile 1"
        }
