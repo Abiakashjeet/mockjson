@@ -1,8 +1,8 @@
 {
   "posts": [
-      { "id": 1, "fname": "Avi ", "lname": "asdf", "email": "avi@gmail.com", "password": "qwertyuiop" },
-      { "id": 2,  "fname": "asd ", "lname": "asdf", "email": "fgh@gmail.com", "password": "vbhnjmk,l" },
-      { "id": 3,  "fname": "tghjk ", "lname": "asdf", "email": "dfgh@gmail.com", "password": "xcvbnmfgbhn" },
-      { "id": 4,  "fname": "qwert ", "lname": "asdf", "email": "xcvb@gmail.com", "password": "xdcfvbnm" }
+      { "id": 1, "Fname": "Avi ", "Lname": "asdf", "Email": "avi@gmail.com", "Password": "qwertyuiop" },
+      { "id": 2,  "Fname": "asd ", "Lname": "asdf", "Email": "fgh@gmail.com", "Password": "vbhnjmk,l" },
+      { "id": 3,  "Fname": "tghjk ", "Lname": "asdf", "Email": "dfgh@gmail.com", "Password": "xcvbnmfgbhn" },
+      { "id": 4,  "Fname": "qwert ", "Lname": "asdf", "Email": "xcvb@gmail.com", "Password": "xdcfvbnm" }
     ]
  }
